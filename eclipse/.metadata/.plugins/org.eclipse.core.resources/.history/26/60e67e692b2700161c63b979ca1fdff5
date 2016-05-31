@@ -1,0 +1,11 @@
+package jefferson.estudos.cursojava.aula11;
+
+public class VariaveisChar {
+
+	public static void main(String[] args) {
+		
+		//Declaração de Variáveis
+
+	}
+
+}

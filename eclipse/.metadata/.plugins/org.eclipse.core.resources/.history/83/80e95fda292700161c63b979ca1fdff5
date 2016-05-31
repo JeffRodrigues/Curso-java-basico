@@ -1,0 +1,12 @@
+package jefferson.estudos.cursojava.aula11;
+
+public class VariaveisInteiras {
+
+	public static void main(String[] args) {
+		
+		
+		byte idade01 = 20;		
+
+	}
+
+}

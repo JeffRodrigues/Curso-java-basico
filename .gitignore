@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/JavaApplication1/nbproject/private/
+/JavaApplication1/build/
+/netbeans/nbproject/private/
+/netbeans/build/
